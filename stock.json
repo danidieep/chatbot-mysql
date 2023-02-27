@@ -1,0 +1,99 @@
+[
+    {
+        "Productos":{
+            "ofertas":[{
+                        "name":  "Pata muslo x 3kg",
+                        "price":1290
+                    },
+                    {
+                        "name":  "8 medallones vacunos",
+                        "price":849
+                    },
+                    {
+                        "name":  "Bondiola x 1kg",
+                        "price":1399 
+                    }],
+                "listado":{
+                    "pollo":
+                            [
+                                {
+                                    "name":  "Pata",
+                                    "price":1600 
+                                },
+                                {
+                                    "name":  "muslo",
+                                    "price":1999 
+                                },
+                                {
+                                    "name":  "patitas de pollo",
+                                    "price":800 
+                                },
+                                {
+                                    "name":  "nuggets",
+                                    "price":999 
+                                }
+                            ]
+                        
+                    ,
+                    "cerdo":[
+                            {
+                                "name":  "costeleta",
+                                "price":1600 
+                            },
+                            {
+                                "name":  "bondiola",
+                                "price":1999 
+                            },
+                            {
+                                "name": "ribs",
+                                "price":800 
+                            },
+                            {
+                                "name":  "pata de chancho",
+                                "price":999 
+                            }
+                        ]
+                    ,
+                    "vaca":[
+                            {
+                                "name":  "entrana",
+                                "price":1600 
+                            },
+                            {
+                                "name":  "vacio",
+                                "price":1999 
+                            },
+                            {
+                                "name": "bife",
+                                "price":800 
+                            },
+                            {
+                                "name":  "chorizo",
+                                "price":999 
+                            }
+                        ]
+                    ,
+                    "pescado":[
+                            {
+                                "name":  "filet de merlzuza x 1kg",
+                                "price":1600 
+                            },
+                            {
+                                "name":  "salmon x 1kg",
+                                "price":1999 
+                            },
+                            {
+                                "name": "sabalo x kg",
+                                "price":800 
+                            },
+                            {
+                                "name":  "medallon de poes x kg",
+                                "price":999 
+                            }
+                        ]
+                    
+                }
+            }
+        }
+    
+]
